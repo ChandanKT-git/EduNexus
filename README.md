@@ -1,4 +1,4 @@
-# EduNexus — Mini LMS (MERN)  
+# EduNexus — Mini LMS (MERN)
 
 ## Overview
 EduNexus is a mini Learning Management System built with the MERN stack. It supports three roles: Admin, Instructor, and Student. MVP includes auth, course management, video lectures, assignments, chat, and live session scheduling.
